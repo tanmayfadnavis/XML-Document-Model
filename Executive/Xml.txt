@@ -1,0 +1,36 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!-- XML test case-->
+  <LectureNote course="CSE681"  prof ="Fawcett">
+    <title>
+    </title>
+    <reference>
+      <title>
+          Programming Microsoft . Net
+      </title>
+      <author city="syracuse">
+          Jeff Prosise
+        <note Company="Wintellect">
+        </note>
+      </author>
+      <author city="seattle">
+          Bill Gates
+        <note Company="Microsoft">
+        </note>
+      </author>
+      <publisher>
+          Microsoft Press
+      </publisher>
+      <date>
+          2002
+      </date>
+      <page>
+          608
+      </page>
+      <adding this Taged child to title Node>
+      </adding this Taged child to title Node>
+    </reference>
+    <comment>
+        Description of PCDATA
+    </comment>
+  </LectureNote>
